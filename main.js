@@ -17,3 +17,14 @@
 //     console.log(i);
 //   }
 // }
+
+// 2.4 Js
+
+// function res(arr, value) {
+//     const index = arr.indexOf(value);
+//     if (index !== -1) {
+//         return index;
+//     } else {
+//         return -1;
+//     }
+// }
