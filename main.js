@@ -37,3 +37,11 @@
 //     const res4 = arr.slice(res2);
 //     return [res3, res4];
 // }
+
+// 2.7 Js
+
+// function res(arr) {
+//     return arr.split(' ').reduce((acc, cur) => {
+//         return cur.length > acc.length ? cur : acc;
+//     });
+// }
