@@ -28,3 +28,12 @@
 //         return -1;
 //     }
 // }
+
+// 2.6 Js
+
+// function res(arr) {
+//     const res2 = arr.length / 2;
+//     const res3 = arr.slice(0, res2);
+//     const res4 = arr.slice(res2);
+//     return [res3, res4];
+// }
